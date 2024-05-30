@@ -1,4 +1,3 @@
-# number-to-french-converter
 # Number to French Converter
 
 This project is a Python package that converts numbers into their French word equivalents. It supports numbers from 0 to 999,999.
